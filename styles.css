@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.margin,
+form {
+  margin: 10px;
+}
+
+.error.error {
+  border: 2px solid red;
+}
